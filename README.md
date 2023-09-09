@@ -4,7 +4,7 @@
 
 ____
 
-![my favorate idol](https://zh.wikipedia.org/zh-hans/蔡徐坤)
+![my favorate idol]([https://zh.wikipedia.org/zh-hans/蔡徐坤](https://zh.wikipedia.org/zh-hans/%E8%94%A1%E5%BE%90%E5%9D%A4#/media/File:Cai_Xukun_in_2018.jpg))
 
 
 
