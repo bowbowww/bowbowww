@@ -4,8 +4,7 @@
 
 ____
 
-![my favorate idol][id]
-[id] : url/to/image "https://baike.baidu.com/pic/蔡徐坤/8511458/1/b17eca8065380cd79123caf75208ba345982b2b72bde?fr=lemma&fromModule=lemma_top-image&ct=single#aid=1&pic=b17eca8065380cd79123caf75208ba345982b2b72bde"
+![my favorate idol](https://baike.baidu.com/pic/蔡徐坤/8511458/1/b17eca8065380cd79123caf75208ba345982b2b72bde?fr=lemma&fromModule=lemma_top-image&ct=single#aid=1&pic=b17eca8065380cd79123caf75208ba345982b2b72bde)
 
 
 
