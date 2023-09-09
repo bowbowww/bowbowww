@@ -4,7 +4,7 @@
 
 ____
 
-![my favorate idol](https://zh.wikipedia.org/zh-hans/%E8%94%A1%E5%BE%90%E5%9D%A4"kun图")
+![my favorate idol](https://zh.wikipedia.org/zh-hans/蔡徐坤"kun图")
 
 
 
